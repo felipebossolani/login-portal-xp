@@ -1,4 +1,4 @@
-# login-portal-xp
+# login-portal-xp - XP Investimentos
 Projeto em python para se logar automaticamente no Portal XP Investimentos. Inclui login via token
 
 # Sobre o projeto
