@@ -14,6 +14,8 @@ Para testar o script rode o seguinte comando:
 
 Onde
 -u = sua conta XP
+
 -p = seu password
+
 -t = token do seu celular. Ideal é esperar uma "virada" para ter 30 segundos de uso.
 
